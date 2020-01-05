@@ -191,7 +191,6 @@
     font-size: 22px;
 }
 
-/* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
     width: 920px; /* Full width */
     padding: 10px; /* Some padding */ 
@@ -202,8 +201,7 @@ input[type=text], select, textarea {
     margin-bottom: 16px; /* Bottom margin */
     resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
 }
-  
-/* Style the submit button with a specific background color etc */
+
 input[type=submit] {
     width: 6em;  height: 2em;
     display: inline-block;
@@ -215,7 +213,6 @@ input[type=submit] {
     font-size: 16px;
 }
 
-/* Add a background color and some padding around the form */
 .contact {
     border-radius: 5px;
     background-color: white;
