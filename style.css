@@ -74,17 +74,19 @@
     border-width: thin;
 }
 
-.about_me {
+.about_me H1{
     float: left;
     border-bottom-style: solid;
     border-bottom-width: 3px;
     border-color: #cccccc;
     color: #4aaaa5;
-    font-size: 18px;
+    font-size: 26px;
     vertical-align: middle;
-    width: 88%;
-    padding: 30px;
+    width: 92%;
+    padding: 20px;
     margin: 20px;
+    font-family: auto;
+    background-color: white;
 }
 
 .picture {
